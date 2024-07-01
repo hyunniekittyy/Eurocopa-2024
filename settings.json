@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./clases",
+        "./api_completa",
+        "./clases y main",
+        "./api_completa/gestión_",
+        "./api_completa/gestión_"
+    ]
+}
